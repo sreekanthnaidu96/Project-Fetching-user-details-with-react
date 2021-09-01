@@ -32,6 +32,6 @@ once it's done run npm start in the cmd terminal to see my project in action
 2. used font awesome cdn for icons
 
 # secret
-you may notice something call redirect with just one line of code it got nothing to do with our app
+you may notice something called redirect with just one line of code in the public folder, it got nothing to do with our app
 
-it's there to keep our app from breaking when some user refresh the page when the app is hosted on netlify
+it's there to keep our app from breaking when some user refresh the page on different page other than home when the app is hosted on netlify
