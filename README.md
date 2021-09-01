@@ -30,3 +30,8 @@ once it's done run npm start in the cmd terminal to see my project in action
 
 1. used bootstrap cdn for the styles
 2. used font awesome cdn for icons
+
+# secret
+you may notice something call redirect with just one line of code it got nothing to do with our app
+
+it's there to keep our app from breaking when some user refresh the page when the app is hosted on netlify
